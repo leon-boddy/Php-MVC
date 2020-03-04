@@ -1,4 +1,4 @@
 # Php-MVC
-Udemy - object-oriented-php-mvc
+Udemy course - object-oriented-php-mvc
 
-Initial framework complete
+Framework build completed
